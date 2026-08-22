@@ -2,9 +2,8 @@ sample text
 
 console.log("Start")
 console.log("Step1")
-console.log("Step2")
-console.log("Step3")
 console.log("Intermediate")
 console.log("Step4")
+console.log("Intermediate1")
 console.log("Step5")
 console.log("Stop")
