@@ -1,5 +1,1 @@
 This is a new file for revert demo
-
-These are the changes to be reverted
-
-These are the newest changes to be reverted.
